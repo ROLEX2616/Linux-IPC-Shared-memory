@@ -20,11 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : VARSHA A
-
-Register Number : 212223220121
-
 ## Write a C program that illustrates two processes communicating using shared memory.
+
 ~~~
 #include <stdio.h>
 #include <sys/ipc.h>
@@ -53,11 +50,7 @@ int main()
 }
 ~~~
 
-
-
 ## OUTPUT
-
-
 
 ![322714277-475e242b-c017-494e-985d-e81d453b6733](https://github.com/04Varsha/Linux-IPC-Shared-memory/assets/149035374/de0b1d3f-e53d-44fa-8002-869bcb2dad1a)
 
